@@ -1,6 +1,6 @@
 Name:           felix-parent
 Version:        1.2.1
-Release:        14%{?dist}
+Release:        15%{?dist}
 Summary:        Parent POM file for Apache Felix Specs
 
 Group:          Development/Libraries
@@ -81,6 +81,9 @@ Parent POM file for Apache Felix Specs.
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.2.1-15
+- Mass rebuild 2013-12-27
+
 * Tue Jul 16 2013 Mikolaj Izdebski <mizdebsk@redhat.com> - 1.2.1-14
 - Fix Maven alias
 
